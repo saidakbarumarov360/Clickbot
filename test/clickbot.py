@@ -6,7 +6,7 @@ from textlar import *
 from buttons import *
 
 
-TOKEN="6576033143:AAHfq4yxxpdW4-ZZlpGdSIO7hc6g2zh8F_g"
+TOKEN="your token"
 
 
 bot=Bot(TOKEN)
